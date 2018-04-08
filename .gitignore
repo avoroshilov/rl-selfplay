@@ -1,0 +1,4 @@
+/.vscode/*
+/**/__pycache__/*
+/_tf-summary/*
+/_tf-models/*
